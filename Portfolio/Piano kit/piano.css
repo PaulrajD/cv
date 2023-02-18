@@ -1,0 +1,89 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    align-items: center;
+
+
+}
+
+.bg {
+    background-color:cadetblue;
+}
+
+.piano {
+    position: absolute;
+    top: 25%;
+    bottom: 25%;
+    right: 25%;
+    
+}
+      /* whitekeys */
+
+.wkey {
+    background-color: antiquewhite;
+    width: 100px;
+    height: 350px;
+    border-radius: 10px;
+    color: black;
+    font-size:30px;
+}
+
+/* blackkeys */
+
+.bkeyc {
+    background-color:black;
+    width: 80px;
+    height: 220px;
+    border-radius: 10px;
+    position: absolute;
+    top:0px;
+    left: 62px;
+    color: antiquewhite;
+
+}
+.bkeyd    {
+    background-color:black;
+    width: 80px;
+    height: 220px;
+    border-radius: 10px;
+    position: absolute;
+    top:0px;
+    left: 166px;
+    color: antiquewhite;
+
+
+}
+.bkeye {
+    background-color:black;
+    width: 80px;
+    height: 220px;
+    border-radius: 10px;
+    position: absolute;
+    top:0px;
+    left: 270px;
+    color: antiquewhite;
+}
+
+.bkeyg {
+    background-color:black;
+    width: 80px;
+    height: 220px;
+    border-radius: 10px;
+    position: absolute;
+    top:0px;
+    left: 478px;
+    color: antiquewhite;
+
+}
+
+.bkeya {
+    background-color:black;
+    width: 80px;
+    height: 220px;
+    border-radius: 10px;
+    position: absolute;
+    top:0px;
+    left: 583px;
+    color: antiquewhite;
+
+}
